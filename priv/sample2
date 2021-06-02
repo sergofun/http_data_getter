@@ -1,0 +1,2 @@
+Another lightweight file because it's doesn't make sence to keep huge file in github
+to create such file you can perform : cat /dev/random > huge_sample
